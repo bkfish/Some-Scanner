@@ -1,4 +1,5 @@
 ### 一些简单的扫描器
+亲查看github其他资源目录，下载相应的扫描工具     
 ### 一、局域网网段扫描
 [SegmentScan.py](SegmentScan.py)
 只需输入网段           
